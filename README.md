@@ -1,2 +1,2 @@
 # portfolio
-Simple portfolio webiste
+A simple portfolio website for my personal use
